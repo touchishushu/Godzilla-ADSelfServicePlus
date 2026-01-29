@@ -19,4 +19,4 @@ Godzilla直接加载插件就可以使用的ADSelfServicePlus后渗透插件，�
 ![](backup.png)
 
 ## 0x5. 未完待续...
-![](ss.jepg)
+![](ss.jpeg)
